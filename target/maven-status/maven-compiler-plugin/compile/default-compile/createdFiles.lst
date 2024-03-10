@@ -1,0 +1,14 @@
+net\academiadecodigo\asignatura\rest\entities\Departamento.class
+net\academiadecodigo\asignatura\rest\JakartaRestConfiguration.class
+net\academiadecodigo\asignatura\rest\entities\AlumAsig.class
+net\academiadecodigo\asignatura\rest\entities\Profesor.class
+net\academiadecodigo\asignatura\rest\entities\Alumno.class
+net\academiadecodigo\asignatura\rest\resources\JakartaEE10Resource.class
+net\academiadecodigo\asignatura\rest\entities\Asignatura.class
+net\academiadecodigo\asignatura\rest\resources\MunicipioResources.class
+net\academiadecodigo\asignatura\rest\entities\AlumAsigPK.class
+net\academiadecodigo\asignatura\rest\facade\DepartamentoFacade.class
+net\academiadecodigo\asignatura\rest\entities\Municipio.class
+net\academiadecodigo\asignatura\rest\resources\DepartamentoResource.class
+net\academiadecodigo\asignatura\rest\facade\MunicipioFacade.class
+net\academiadecodigo\asignatura\rest\facade\AbstractFacade.class
